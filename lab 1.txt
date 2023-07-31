@@ -1,0 +1,31 @@
+***********************************Lab-1****************************
+Name:Abhishek Dalsaniya A.
+STD ID:202101170
+Software Enginnering (IT314_Lab-1)
+
+(A) Water Fall Model will be used here because in the data processing project all the data are predefined.
+
+(B) Prototype Model will be used here because the End user(User-Centric) Approach is used here.
+
+(C) Water Fall Model wil be used here because new feature is build upon existing feature and it conveys about the use of bassic feature.
+
+(D) Incremental Model is used here because of availability of team and evolutionary incremental because requirements are changing fast.
+
+(E) Website is for online store it can use waterfall model but it need changes accordingly so iterative.
+
+(F) Spiral Model is used because it invlove risk factor.
+
+(G) Incremental Model is used here because requirements are understood and are knownn up-front.
+
+(H) Waterfall Model is used here because the data and requirements are known,clear and fixed.
+
+(I) Prototyping because end-user will be focussed here / also incremental.
+
+(J) Spiral Model is used here because it involve risk factor.
+
+(K) Evolutionary Incremental.
+
+(L) Spiral Model is used here because it invole risk factor. From the doctor's point of view it can involve prototype model also because 
+    doctor operates also.
+
+(M) Water Fall Model because changes are not required.
